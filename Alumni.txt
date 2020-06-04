@@ -1,0 +1,13 @@
+content
+berita
+alumni(ti,si)dropdown
+loker
+
+
+administrasi
+loker
+alumni 
+berita
+treasure (terakhir kerja ) hubungan ke alumni
+
+
